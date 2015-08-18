@@ -4,6 +4,7 @@
     "email": "test@tttest.com",
     "url": "http://localhost"
   },
+  "start": "node server.js",
   "name": "noctest",
   "description": "just a atest",
   "version": "0.5.0",
